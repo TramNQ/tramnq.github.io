@@ -176,3 +176,11 @@ body {background-color: #f9f9f9; margin:0; padding:0;}
 	color: #6fb9a475;
 }
 
+.contact_title{
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+	margin-top: 7px;
+	margin-bottom: -10px;
+}
